@@ -1,6 +1,6 @@
 # rag-pipeline
 
-![Python](https://img.shields.io/badge/python-3.10%2B-blue?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-3.12%2B-blue?logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/status-in%20progress-yellow)
 
 ## Introduction
